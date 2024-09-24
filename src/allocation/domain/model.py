@@ -2,7 +2,11 @@ from __future__ import annotations
 from dataclasses import dataclass
 from datetime import date
 from typing import Optional, List, Set
+<<<<<<< HEAD
 from . import commands, events
+=======
+from . import events
+>>>>>>> 8d65f899e6bb940b21165f045f1887534a12c693
 
 
 class Product:
